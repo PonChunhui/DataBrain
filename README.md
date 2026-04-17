@@ -116,9 +116,14 @@ devops-platform/
 ```
 
 ## 截图
-![alt text](截图/image.png)
-![alt text](截图/image-1.png)
-![alt text](截图/image-3.png)
+![alt text](截图/首页.png)
+![alt text](截图/工作负载.png)
+![alt text](截图/工作负载2.png)
+![alt text](截图/集群授权.png)
+![alt text](截图/节点管理.png)
+![alt text](截图/节点详情.png)
+![alt text](截图/容器管理.png)
+![alt text](截图/容器监控.png)
 
 
 ## 开发指南
