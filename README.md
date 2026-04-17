@@ -115,6 +115,12 @@ devops-platform/
 └── README.md            # 项目文档
 ```
 
+## 截图
+![alt text](截图/image.png)
+![alt text](截图/image-1.png)
+![alt text](截图/image-2.png)
+![alt text](截图/image-7.png)
+
 ## 开发指南
 
 参见 `AGENTS.md`
