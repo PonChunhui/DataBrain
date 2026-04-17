@@ -3,12 +3,12 @@ server:
   mode: debug  # debug, release, test
 
 mysql:
-  path: test-db-sd.rwlb.cn-chengdu.rds.aliyuncs.com
+  path: 172.16.0.5
   port: 3306
   config: charset=utf8mb4&parseTime=True&loc=Local
   db-name: test-ops-ai
   username: test_ops_ai
-  password: -&xY$=&kep_7(BVCgr0YUWrWNIa12nR
+  password: 123456
   max-idle-conns: 10
   max-open-conns: 100
   log-mode: true
