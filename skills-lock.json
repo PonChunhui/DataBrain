@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "layout": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "6b5fd49587616ca1e594e9c6b11bc1cef5eb0b2d137c307de54a8a650770f4ce"
+    }
+  }
+}

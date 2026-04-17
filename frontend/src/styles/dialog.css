@@ -1,0 +1,57 @@
+.logs-dialog {
+  --el-dialog-bg-color: #1a1b26;
+  --el-dialog-padding-primary: 0;
+}
+
+.logs-dialog .el-dialog {
+  background: #1a1b26 !important;
+  border-radius: 8px !important;
+  overflow: hidden !important;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.3) !important;
+}
+
+.logs-dialog .el-dialog__header {
+  display: none !important;
+}
+
+.logs-dialog .el-dialog__headerbtn {
+  display: none !important;
+}
+
+.logs-dialog .el-dialog__body {
+  padding: 0 !important;
+  background: #1a1b26 !important;
+}
+
+.logs-dialog .el-dialog__footer {
+  display: none !important;
+}
+
+.terminal-dialog {
+  --el-dialog-bg-color: #1a1b26;
+  --el-dialog-padding-primary: 0;
+}
+
+.terminal-dialog .el-dialog {
+  background: #1a1b26 !important;
+  border-radius: 8px !important;
+  overflow: hidden !important;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.3) !important;
+}
+
+.terminal-dialog .el-dialog__header {
+  display: none !important;
+}
+
+.terminal-dialog .el-dialog__headerbtn {
+  display: none !important;
+}
+
+.terminal-dialog .el-dialog__body {
+  padding: 0 !important;
+  background: #1a1b26 !important;
+}
+
+.terminal-dialog .el-dialog__footer {
+  display: none !important;
+}

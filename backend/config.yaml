@@ -1,0 +1,31 @@
+server:
+  port: 8080
+  mode: debug  # debug, release, test
+
+mysql:
+  path: test-db-sd.rwlb.cn-chengdu.rds.aliyuncs.com
+  port: 3306
+  config: charset=utf8mb4&parseTime=True&loc=Local
+  db-name: test-ops-ai
+  username: test_ops_ai
+  password: -&xY$=&kep_7(BVCgr0YUWrWNIa12nR
+  max-idle-conns: 10
+  max-open-conns: 100
+  log-mode: true
+  log-zap: true
+
+jwt:
+  signing-key: your-secret-key-change-this-in-production
+  expires-time: 86400  # 24 hours in seconds
+  buffer-time: 86400
+  issuer: devops-platform
+
+log:
+  level: debug
+  format: console
+  prefix: "[DEVOPS]"
+  director: log
+  show-line: true
+  encode-level: LowercaseColorEncodeLevel
+  stacktrace-key: stacktrace
+  log-in-console: true
