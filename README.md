@@ -118,8 +118,8 @@ devops-platform/
 ## 截图
 ![alt text](截图/image.png)
 ![alt text](截图/image-1.png)
-![alt text](截图/image-2.png)
-![alt text](截图/image-7.png)
+![alt text](截图/image-3.png)
+
 
 ## 开发指南
 
